@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=
+comment1.target=Pila()
+comment2.params=
+comment2.target=boolean\ estaVacia()
+comment3.params=valor
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment5.params=
+comment5.target=java.lang.Object\ verTope()
+comment6.params=
+comment6.target=int\ tamano()
+numComments=7

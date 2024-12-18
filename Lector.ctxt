@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Lector
+comment1.params=archivo
+comment1.target=java.util.List\ cargarUsuarios(java.lang.String)
+numComments=2

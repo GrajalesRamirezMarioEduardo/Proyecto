@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Comentario
+comment1.params=texto
+comment1.target=Comentario(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTexto()
+comment3.params=
+comment3.target=java.util.Date\ getFecha()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
